@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creature-cabinet-react-app/static/css/main.f7dfc3ba.chunk.css",
+    "main.js": "/creature-cabinet-react-app/static/js/main.7b7157d3.chunk.js",
+    "main.js.map": "/creature-cabinet-react-app/static/js/main.7b7157d3.chunk.js.map",
+    "runtime~main.js": "/creature-cabinet-react-app/static/js/runtime~main.18f557a5.js",
+    "runtime~main.js.map": "/creature-cabinet-react-app/static/js/runtime~main.18f557a5.js.map",
+    "static/js/2.c272f57a.chunk.js": "/creature-cabinet-react-app/static/js/2.c272f57a.chunk.js",
+    "static/js/2.c272f57a.chunk.js.map": "/creature-cabinet-react-app/static/js/2.c272f57a.chunk.js.map",
+    "index.html": "/creature-cabinet-react-app/index.html",
+    "precache-manifest.2f5dafee742f56dedd4b32132b375fbf.js": "/creature-cabinet-react-app/precache-manifest.2f5dafee742f56dedd4b32132b375fbf.js",
+    "service-worker.js": "/creature-cabinet-react-app/service-worker.js",
+    "static/css/main.f7dfc3ba.chunk.css.map": "/creature-cabinet-react-app/static/css/main.f7dfc3ba.chunk.css.map"
+  }
+}
